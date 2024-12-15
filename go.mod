@@ -1,4 +1,4 @@
-module easy-lamb-go
+module github.com/easy-lamb/easy-lamb-go
 
 go 1.23
 

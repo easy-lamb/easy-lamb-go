@@ -1,7 +1,7 @@
 package services
 
 import (
-	"easy-lamb-go/models"
+	"github.com/easy-lamb/easy-lamb-go/models"
 	"os"
 )
 

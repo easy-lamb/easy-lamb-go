@@ -1,8 +1,8 @@
 package main
 
 import (
-	"easy-lamb-go/cmd/easy-lamb-go/commands"
 	"fmt"
+	"github.com/easy-lamb/easy-lamb-go/cmd/easy-lamb-go/commands"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 	"os"

@@ -1,7 +1,7 @@
 package commands
 
 import (
-	"easy-lamb-go/services"
+	"github.com/easy-lamb/easy-lamb-go/services"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 	"os"

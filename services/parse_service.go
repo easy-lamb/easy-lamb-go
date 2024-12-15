@@ -1,8 +1,8 @@
 package services
 
 import (
-	"easy-lamb-go/models"
 	"fmt"
+	"github.com/easy-lamb/easy-lamb-go/models"
 	"github.com/sirupsen/logrus"
 	"strings"
 	"sync"
